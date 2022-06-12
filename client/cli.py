@@ -86,10 +86,15 @@ class Discord():
 
         presence = self.user.presence
         if self.rpc:
-            if presence.game.name and presence.state == 'ONLINE': # Please file an issue if this happens to fail
+            print(time.strftime("%H:%M:%S"), "Presence state is: ", presence.state, flush=True)
+            print(time.strftime("%H:%M:%S"), "Presence game is currently: ", presence.game.name, flush=True)
+            print(time.strftime("%H:%M:%S"), "Start is currently: ", self.start, flush=True)
+            if presence.game.name: # Please file an issue if this happens to fail
                 if self.currentGame != presence.game.name:
+                    print(time.strftime("%H:%M:%S"), "Now playing: ", presence.game.name, flush=True)
                     self.currentGame = presence.game.name
                     self.start = int(time.time())
+                    print(time.strftime("%H:%M:%S"), "Start set to: ", self.start, flush=True)
                 state = presence.game.sysDescription
                 if not state:
                     state = 'Played for %s hours or more' % (int(presence.game.totalPlayTime / 60 / 5) * 5)
@@ -97,6 +102,7 @@ class Discord():
                         state = 'Played for a little while'
                 self.rpc.update(details = presence.game.name, large_image = presence.game.imageUri, large_text = presence.game.name, state = state, start = self.start)
             else:
+                print(time.strftime("%H:%M:%S"), "There is no game or we are not online", flush=True)
                 self.currentGame = None
                 self.rpc.clear()
         # Set GUI

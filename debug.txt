@@ -1,0 +1,110 @@
+$ python app.py
+11:50:04 Presence state is:  ONLINE
+11:50:04 Presence game is currently:  Mario Strikers: Battle League
+11:50:04 Start is currently:  1655059803
+11:50:04 Now playing:  Mario Strikers: Battle League
+11:50:04 Start set to:  1655059804
+11:50:05 Presence state is:  ONLINE
+11:50:05 Presence game is currently:  Mario Strikers: Battle League
+11:50:05 Start is currently:  1655059804
+11:50:36 Presence state is:  INACTIVE
+11:50:36 Presence game is currently:  None
+11:50:36 Start is currently:  1655059804
+11:50:36 There is no game or we are not online
+11:51:06 Presence state is:  INACTIVE
+11:51:06 Presence game is currently:  None
+11:51:06 Start is currently:  1655059804
+11:51:06 There is no game or we are not online
+11:51:37 Presence state is:  ONLINE
+11:51:37 Presence game is currently:  Mario Strikers: Battle League
+11:51:37 Start is currently:  1655059804
+11:51:37 Now playing:  Mario Strikers: Battle League
+11:51:37 Start set to:  1655059897
+11:52:08 Presence state is:  OFFLINE
+11:52:08 Presence game is currently:  None
+11:52:08 Start is currently:  1655059897
+11:52:08 There is no game or we are not online
+11:52:38 Presence state is:  ONLINE
+11:52:38 Presence game is currently:  Mario Strikers: Battle League
+11:52:38 Start is currently:  1655059897
+11:52:38 Now playing:  Mario Strikers: Battle League
+11:52:38 Start set to:  1655059958
+11:53:09 Presence state is:  ONLINE
+11:53:09 Presence game is currently:  Mario Strikers: Battle League
+11:53:09 Start is currently:  1655059958
+11:53:39 Presence state is:  ONLINE
+11:53:39 Presence game is currently:  Fire Emblem Warriors: Three Hopes Demo
+11:53:39 Start is currently:  1655059958
+11:53:39 Now playing:  Fire Emblem Warriors: Three Hopes Demo
+11:53:39 Start set to:  1655060019
+11:54:10 Presence state is:  ONLINE
+11:54:10 Presence game is currently:  Fire Emblem Warriors: Three Hopes Demo
+11:54:10 Start is currently:  1655060019
+11:54:41 Presence state is:  ONLINE
+11:54:41 Presence game is currently:  Fire Emblem Warriors: Three Hopes Demo
+11:54:41 Start is currently:  1655060019
+11:55:12 Presence state is:  ONLINE
+11:55:12 Presence game is currently:  Fire Emblem Warriors: Three Hopes Demo
+11:55:12 Start is currently:  1655060019
+11:55:42 Presence state is:  ONLINE
+11:55:42 Presence game is currently:  Fire Emblem Warriors: Three Hopes Demo
+11:55:42 Start is currently:  1655060019
+11:56:13 Presence state is:  OFFLINE
+11:56:13 Presence game is currently:  None
+11:56:13 Start is currently:  1655060019
+11:56:13 There is no game or we are not online
+11:56:43 Presence state is:  ONLINE
+11:56:43 Presence game is currently:  Fire Emblem Warriors: Three Hopes Demo
+11:56:43 Start is currently:  1655060019
+11:56:43 Now playing:  Fire Emblem Warriors: Three Hopes Demo
+11:56:43 Start set to:  1655060203
+11:57:14 Presence state is:  INACTIVE
+11:57:14 Presence game is currently:  None
+11:57:14 Start is currently:  1655060203
+11:57:14 There is no game or we are not online
+11:57:45 Presence state is:  ONLINE
+11:57:45 Presence game is currently:  Mario Strikers: Battle League
+11:57:45 Start is currently:  1655060203
+11:57:45 Now playing:  Mario Strikers: Battle League
+11:57:45 Start set to:  1655060265
+11:58:15 Presence state is:  OFFLINE
+11:58:15 Presence game is currently:  None
+11:58:15 Start is currently:  1655060265
+11:58:15 There is no game or we are not online
+11:58:46 Presence state is:  OFFLINE
+11:58:46 Presence game is currently:  None
+11:58:46 Start is currently:  1655060265
+11:58:46 There is no game or we are not online
+11:59:17 Presence state is:  OFFLINE
+11:59:17 Presence game is currently:  None
+11:59:17 Start is currently:  1655060265
+11:59:17 There is no game or we are not online
+11:59:47 Presence state is:  OFFLINE
+11:59:47 Presence game is currently:  None
+11:59:47 Start is currently:  1655060265
+11:59:47 There is no game or we are not online
+12:00:18 Presence state is:  OFFLINE
+12:00:18 Presence game is currently:  None
+12:00:18 Start is currently:  1655060265
+12:00:18 There is no game or we are not online
+12:00:49 Presence state is:  OFFLINE
+12:00:49 Presence game is currently:  None
+12:00:49 Start is currently:  1655060265
+12:00:49 There is no game or we are not online
+12:01:19 Presence state is:  OFFLINE
+12:01:19 Presence game is currently:  None
+12:01:19 Start is currently:  1655060265
+12:01:19 There is no game or we are not online
+12:01:50 Presence state is:  OFFLINE
+12:01:50 Presence game is currently:  None
+12:01:50 Start is currently:  1655060265
+12:01:50 There is no game or we are not online
+12:02:21 Presence state is:  OFFLINE
+12:02:21 Presence game is currently:  None
+12:02:21 Start is currently:  1655060265
+12:02:21 There is no game or we are not online
+12:02:51 Presence state is:  ONLINE
+12:02:51 Presence game is currently:  Mario Strikers: Battle League
+12:02:51 Start is currently:  1655060265
+12:02:51 Now playing:  Mario Strikers: Battle League
+12:02:51 Start set to:  1655060571
